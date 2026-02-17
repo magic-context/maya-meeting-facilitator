@@ -1,5 +1,7 @@
 # Maya — Your AI Meeting Facilitator That Never Drops the Ball
 
+> ⚠️ **DRAFT** — This specialist was created on Feb 17, 2026 and has not yet been manually reviewed. Content, structure, and instructions may change.
+
 Every meeting tool captures notes. Maya manages **your meetings** — she remembers every action item, every decision, every participant dynamic, and which recurring meetings are actually worth keeping. She makes meetings produce outcomes because she never forgets the follow-through.
 
 ## The Problem
