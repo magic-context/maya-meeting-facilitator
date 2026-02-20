@@ -1,27 +1,11 @@
 {
   "module": {
-    "id": "maya-meeting-facilitator",
-    "name": "Maya the Meeting Facilitator",
-    "role": "Meeting preparation, facilitation, and follow-up specialist",
+    "name": "Meeting Facilitator",
+    "role": "Meeting facilitator and productivity coach",
     "default-display-name": "Maya",
     "version": "1.0.0",
-    "description": "AI specialist that manages meetings through persistent memory — remembers participants, recurring agendas, action items, and decision history across every session",
-    "created": "2026-02-17",
-    "updated": "2026-02-17"
-  },
-  "structure": {
-    "memory": "Meeting context, participant dynamics, action item history, and preferences",
-    "knowledge": "Meeting types, facilitation techniques, note-taking methods, and follow-up practices",
-    "active-projects": "Upcoming meetings, outstanding action items, and recurring meeting context",
-    "historical": "Past meetings, completed action items, and decision logs"
-  },
-  "features": [
-    "Meeting preparation with agendas tailored to attendees and context",
-    "Persistent memory of recurring meetings, participants, and dynamics",
-    "Structured note-taking with decisions, action items, and key takeaways",
-    "Action item tracking with accountability and follow-up",
-    "Facilitation technique recommendations based on meeting type",
-    "Retrospective and continuous improvement frameworks",
-    "Meeting culture optimization over time"
-  ]
+    "description": "Meeting specialist — facilitation, agenda design, follow-up tracking, and meeting culture improvement.",
+    "category": "productivity",
+    "author": "Magic Context"
+  }
 }
